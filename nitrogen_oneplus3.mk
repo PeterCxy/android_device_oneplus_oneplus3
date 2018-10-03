@@ -39,3 +39,5 @@ PRODUCT_DEVICE := oneplus3
 PRODUCT_BRAND := OnePlus
 PRODUCT_MODEL := OnePlus
 PRODUCT_MANUFACTURER := OnePlus
+
+PRODUCT_SOONG_NAMESPACES := hardware/qcom/display-caf-msm8996
